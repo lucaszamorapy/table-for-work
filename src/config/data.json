@@ -7,7 +7,7 @@
     "tipo": "Site",
     "hospedagem": "Kinghost",
     "usuario": "summer",
-    "senha": "z!!8LsbTHTCEYrerKn",
+    "senha": "823628313043934939",
     "whois": "https://registro.br/tecnologia/ferramentas/whois?search=alpidistribuidora.com.br",
     "google_page_speed": "https://pagespeed.web.dev/analysis/https-alpidistribuidora-com-br/fd9a1eeqb8?form_factor=mobile",
     "status": "Ativo"
@@ -20,7 +20,7 @@
     "tipo": "Site",
     "hospedagem": "Hostgator",
     "usuario": "summer",
-    "senha": "0p95iErmr2ho",
+    "senha": "260602003",
     "whois": "https://registro.br/tecnologia/ferramentas/whois?search=cfcasabranca.com.br",
     "google_page_speed": "https://pagespeed.web.dev/analysis/https-cfcasabranca-com-br/ycnub3a00m?form_factor=mobile",
     "status": "Ativo"
@@ -33,7 +33,7 @@
     "tipo": "Site",
     "hospedagem": "Kinghost",
     "usuario": "summer",
-    "senha": "6f$4a$$4$6d0fb3d8",
+    "senha": "3021938397",
     "whois": "https://registro.br/tecnologia/ferramentas/whois?search=bellevilleconstrutora.com.br",
     "google_page_speed": "https://pagespeed.web.dev/analysis/https-bellevilleconstrutora-com-br/zb2wdq4zfn?form_factor=mobile",
     "status": "Ativo"
@@ -46,7 +46,7 @@
     "tipo": "Landing page",
     "hospedagem": "Kinghost",
     "usuario": "summer",
-    "senha": "Uq#w%RmV^#hn#j68hNYzn9yA",
+    "senha": "555555555555555",
     "whois": "https://registro.br/tecnologia/ferramentas/whois?search=residencialvancouver.com.br",
     "google_page_speed": "https://pagespeed.web.dev/analysis/https-residencialvancouver-com-br/m0bh6xl8zl?form_factor=mobile",
     "status": "Ativo"
@@ -59,7 +59,7 @@
     "tipo": "Landing page",
     "hospedagem": "Kinghost",
     "usuario": "summer",
-    "senha": "$%22z*HRrthw5gFBg&Mq*%s6",
+    "senha": "777777777776645",
     "whois": "https://registro.br/tecnologia/ferramentas/whois?search=residencialmontrealpg.com.br",
     "google_page_speed": "https://pagespeed.web.dev/analysis/https-residencialvancouver-com-br/m0bh6xl8zl?form_factor=mobile",
     "status": "Ativo"
@@ -72,7 +72,7 @@
     "tipo": "Landing page",
     "hospedagem": "Kinghost",
     "usuario": "summer",
-    "senha": "ZO&H^UYERtEs9HQHJYT2OttB",
+    "senha": "66666666666666666",
     "whois": "https://registro.br/tecnologia/ferramentas/whois?search=residencialtorontopg.com.br",
     "google_page_speed": "https://pagespeed.web.dev/analysis?url=https%3A%2F%2Fresidencialtorontopg.com.br%2F",
     "status": "Ativo"
@@ -98,9 +98,87 @@
     "tipo": "Site",
     "hospedagem": "Locaweb",
     "usuario": "summer",
-    "senha": "5ac2752195205a",
+    "senha": "14141234",
     "whois": "https://registro.br/tecnologia/ferramentas/whois?search=clinicacauchioli.com.br",
     "google_page_speed": "https://pagespeed.web.dev/analysis?url=https%3A%2F%2Fclinicacauchioli.com.br%2F",
+    "status": "Ativo"
+  },
+  {
+    "id": 9,
+    "nome_cliente": "Colégio Notre Dame",
+    "link_site": "https://colegionotredame.g12.br/",
+    "link_admin": "https://colegionotredame.g12.br/wp-admin",
+    "tipo": "Site",
+    "hospedagem": "Kinghost",
+    "usuario": "summer",
+    "senha": "00000000000",
+    "whois": "https://registro.br/tecnologia/ferramentas/whois?search=colegionotredame.g12.br",
+    "google_page_speed": "https://pagespeed.web.dev/analysis/https-colegionotredame-g12-br/hov9bnojvy?form_factor=mobile",
+    "status": "Ativo"
+  },
+  {
+    "id": 10,
+    "nome_cliente": "Credlar (Meu Apê no Litoral)",
+    "link_site": "https://www.meuapenolitoral.com.br/",
+    "link_admin": "https://www.meuapenolitoral.com.br/wp-admin",
+    "tipo": "Landing page",
+    "hospedagem": "Kinghost",
+    "usuario": "summer",
+    "senha": "777777777777",
+    "whois": "https://registro.br/tecnologia/ferramentas/whois?search=www.meuapenolitoral.com.br",
+    "google_page_speed": "https://pagespeed.web.dev/analysis/https-www-meuapenolitoral-com-br/m41wrdg0d5?form_factor=mobile",
+    "status": "Ativo"
+  },
+  {
+    "id": 11,
+    "nome_cliente": "Credlar (Residencial Antoni Gaudí)",
+    "link_site": "https://residencialantonigaudipg.com.br/",
+    "link_admin": "https://residencialantonigaudipg.com.br/wp-admin",
+    "tipo": "Landing page",
+    "hospedagem": "Kinghost",
+    "usuario": "summer",
+    "senha": "6666666666666",
+    "whois": "https://registro.br/tecnologia/ferramentas/whois?search=residencialantonigaudipg.com.br",
+    "google_page_speed": "https://pagespeed.web.dev/analysis/https-residencialantonigaudipg-com-br/sc7vgvhz14?form_factor=mobile",
+    "status": "Ativo"
+  },
+  {
+    "id": 12,
+    "nome_cliente": "Credlar (Residencial Benedito Calixto)",
+    "link_site": "https://residencialbeneditocalixto.com.br/",
+    "link_admin": "https://residencialbeneditocalixto.com.br/wp-admin",
+    "tipo": "Landing page",
+    "hospedagem": "Kinghost",
+    "usuario": "summer",
+    "senha": "333333333333",
+    "whois": "https://registro.br/tecnologia/ferramentas/whois?search=residencialbeneditocalixto.com.br",
+    "google_page_speed": "https://pagespeed.web.dev/analysis/https-residencialbeneditocalixto-com-br/0htray212u?form_factor=mobile",
+    "status": "Ativo"
+  },
+  {
+    "id": 13,
+    "nome_cliente": "Credlar (Residencial Chopin)",
+    "link_site": "https://residencialchopinpg.com.br/",
+    "link_admin": "https://residencialchopinpg.com.br/wp-admin",
+    "tipo": "Landing page",
+    "hospedagem": "Kinghost",
+    "usuario": "summer",
+    "senha": "22222222222222",
+    "whois": "https://registro.br/tecnologia/ferramentas/whois?search=residencialchopinpg.com.br",
+    "google_page_speed": "https://pagespeed.web.dev/analysis/https-residencialchopinpg-com-br/7xeeztgghb?form_factor=mobile",
+    "status": "Ativo"
+  },
+  {
+    "id": 14,
+    "nome_cliente": "Credlar (Residencial Bastian Bach)",
+    "link_site": "https://residencialsebastianbach.com.br/",
+    "link_admin": "https://residencialsebastianbach.com.br/wp-admin",
+    "tipo": "Landing page",
+    "hospedagem": "Kinghost",
+    "usuario": "summer",
+    "senha": "11111111111111111111",
+    "whois": "https://registro.br/tecnologia/ferramentas/whois?search=residencialsebastianbach.com.br",
+    "google_page_speed": "https://pagespeed.web.dev/analysis/https-residencialsebastianbach-com-br/izr5u5gkpl?form_factor=mobile",
     "status": "Ativo"
   }
 ]
